@@ -3,7 +3,7 @@
 🎓 I’m a Computer Science (Data Science) Engineering student at PESITM, Shimoga.  
 🌟 Passionate about AI, ML, and building innovative tech solutions for social impact.  
 💻 Currently exploring Web Development, Data Science, and Real-Time Analytics Projects.  
-📊 Learning: Python | Machine Learning | Deep Learning | Flask | Julia | SQL | Power BI  
+📊 Learning: Python | Machine Learning | Deep Learning | Flask | Julia | SQL | Power BI |React.js
 🤝 Looking to collaborate on impactful open-source projects and hackathons.  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/bhoomika-d-m-14653b293/) | [Email](bhoomikadm26@gmail.com)  
 😄 Pronouns: She/Her  
